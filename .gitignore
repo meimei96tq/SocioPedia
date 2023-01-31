@@ -1,0 +1,14 @@
+socioscope/secret_settings.py
+nohup.out
+analyze.py
+collectdata.py
+get_data.py
+get_time_info.py
+get_tweet_distribute.py
+import_tweets.py
+info.py
+japanese_analyze.py
+manage.py
+sentiment.py
+twitter_import-Copy.py
+word_cloud.py
